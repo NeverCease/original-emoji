@@ -1,0 +1,7 @@
+<script type="text/typescript">
+  import Base from "../../component/IconBase.svelte";
+
+  export const svgContent = `<path d="M11.983, 17.952l-6.022, 3.163l1.15, -6.703l-4.869, -4.746l6.73, -0.978l3.011, -6.096l3.009, 6.096l6.734, 0.976l-4.872, 4.748l1.15, 6.705l-6.021, -3.165Z" style="fill: rgb(89, 89, 89);"/><path d="M16.276, 18.738l-0.819, -4.779l3.472, -3.386l-4.799, -0.697l-2.147, -4.35l-2.146, 4.35l-4.802, 0.697l3.474, 3.386l-0.819, 4.779l4.293, -2.256l4.293, 2.256Z" style="fill: rgb(230, 230, 230);"/>`;
+</script>
+
+<Base {svgContent}/>

@@ -1,0 +1,7 @@
+# File
+.DS_Store
+Thumbs.db
+
+# Folder
+build
+node_modules
